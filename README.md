@@ -13,9 +13,10 @@
 
 A containerized deep-navigation stack for the TurtleBot3. This project bypasses the standard ROS `move_base` to implement a custom A* pathfinding algorithm coupled with real-time LiDAR processing for dynamic obstacle avoidance.
 
-> **Demonstration**
+```> **Demonstration**
 > 
-> *[Replace this line with your GIF link: `![Demo](https://...)`]*
+> *[Replace this line with your GIF link: `![Demo](https://...)`]
+```
 
 ## ✨ Key Features
 
