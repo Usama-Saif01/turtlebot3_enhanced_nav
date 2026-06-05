@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
   <h1>🤖 TurtleBot3 Enhanced Navigation System</h1>
   <p><i>Autonomous A* Pathfinding & Dynamic Obstacle Avoidance in ROS Noetic</i></p>
@@ -16,8 +16,6 @@ A containerized deep-navigation stack for the TurtleBot3. This project bypasses 
 > **Demonstration**
 > 
 > *[Replace this line with your GIF link: `![Demo](https://...)`]*
-
----
 
 ## ✨ Key Features
 
