@@ -1,10 +1,4 @@
-This is the perfect final touch. A professional README is what bridges the gap between raw code and a recruiter actually understanding the engineering effort you put into the project.
 
-Since your architecture specifically solves the complex problem of running ROS Noetic on Kali Linux via Distrobox, that is a massive engineering flex. We need to highlight that prominently, alongside the actual A* pathfinding logic.
-
-Here is a comprehensive, structured README tailored exactly to the custom stack you just built.
-
-Copy this entire block and paste it into your `README.md` file on GitHub, making sure to swap out the placeholder link for your GIF!
 
 ```markdown
 # TurtleBot3 Enhanced Navigation: A* Pathfinding & Dynamic Obstacle Avoidance
