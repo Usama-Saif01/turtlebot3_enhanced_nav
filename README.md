@@ -13,10 +13,9 @@
 
 A containerized deep-navigation stack for the TurtleBot3. This project bypasses the standard ROS `move_base` to implement a custom A* pathfinding algorithm coupled with real-time LiDAR processing for dynamic obstacle avoidance.
 
-```> **Demonstration**
-> 
-> *[Replace this line with your GIF link: `![Demo](https://...)`]
-```
+<!--
+**Demonstration**
+-->
 
 ## ✨ Key Features
 
@@ -123,8 +122,4 @@ Connect your IDE (e.g., VS Code) to the generated Jupyter server URL. Execute th
 ### 👨‍💻 Author
 
 **Usama Saifullah**
-*Information Technology Professional | Machine Learning & Cybersecurity* 🌐 [usamasaifullah.com](https://www.google.com/search?q=https://usamasaifullah.com) | 🔗 [LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/usamasaifullah)
-
-```
-
-```
+*Information Technology Professional | Machine Learning & Cybersecurity* 🌐 [usamasaifullah.com] 🔗 [LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/usamasaifullah)
