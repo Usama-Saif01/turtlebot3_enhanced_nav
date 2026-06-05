@@ -122,4 +122,4 @@ Connect your IDE (e.g., VS Code) to the generated Jupyter server URL. Execute th
 ### 👨‍💻 Author
 
 **Usama Saifullah**
-*Information Technology Professional | Machine Learning & Cybersecurity* 🌐 [usamasaifullah.com] 🔗 [LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/usama-saifullah-sethar)
+*Information Technology Professional | Machine Learning & Cybersecurity* 🔗 [LinkedIn](https://www.linkedin.com/in/usama-saifullah-sethar)
